@@ -1,0 +1,1 @@
+alert('Lamentablemente este contenido no es responsive, pero estoy trabajando en ello.')
