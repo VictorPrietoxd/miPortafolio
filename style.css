@@ -9,10 +9,7 @@
 .containerMain {
   height: 100vh;
   width: 100vw;
-  background-color: rgb(233, 233, 233);
-  background: rgba(255, 255, 255, 0.288);
-  background-image: radial-gradient(rgb(161, 161, 161) 33%, transparent 53%);
-  background-size: 2px 2px;
+  background-color: rgb(238, 238, 238);
   display: flex;
   align-items: center;
 }
@@ -137,7 +134,7 @@
   height: 100vh;
   width: 100vw;
   background: rgba(255, 255, 255, 0.288);
-  background-image: radial-gradient(black 33%, transparent 33%);
+  background-image: radial-gradient(rgb(138, 138, 138) 33%, transparent 33%);
   background-size: 2px 2px;
   background-color: paleturquoise;
   display: flex;
